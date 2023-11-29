@@ -1,0 +1,19 @@
+body{
+    background-color: purple;
+    text-align: center;
+    color: aliceblue;
+}
+.img1{
+  width: 500px;
+  height: 800px;
+p{
+    font-size: 20px;
+    color: aliceblue;
+}
+
+h1{
+    color: aliceblue;
+}
+nav{
+  background-color: black
+}

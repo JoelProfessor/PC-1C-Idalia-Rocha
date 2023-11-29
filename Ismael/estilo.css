@@ -1,0 +1,46 @@
+body{
+  background-color: darkgreen;
+  text-align: center;
+}
+.img1{
+ width: 500px;
+ height: 500px;
+}
+p{
+  color: white;
+}
+nav{
+  background-color: green
+}
+.h1nav{
+  color: darkgreen;
+  padding-top: 1px;
+}
+
+.img2{
+  width: 100px;
+  height: 100px;
+margin-left: 800px;
+  text-align: center;
+
+
+}
+.terraria{
+  display: flex;
+
+}
+.h1titulo{
+  margin-left: 50px;
+
+}
+.img4{
+  width: 600px;
+  height: 350px;
+  text-align: center;
+}
+
+.img5{
+  width: 400px;
+  height: 400px;
+
+}

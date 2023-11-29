@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(122, 121, 121, 0.993);
+    text-align: center;
+    color:rgb(168, 22, 22);
+}
+
+p{
+    font-size: 20px;
+color:rgb(255, 255, 255);
+}
+h1{
+    color:rgb(158, 22, 22);
+    text-align: center;
+}
+
+.img1{
+    width: 1000px; ;
+    height: 500px;
+    text-align: center;
+}
+nav{
+    background-color: rgb(122, 121, 121);
+}
